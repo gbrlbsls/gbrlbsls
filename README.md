@@ -2,7 +2,8 @@
 
 ## 👨‍💻 Sobre mim
 <p align="left"> 
-Olá, me chamo <strong>Gabriel</strong>, estudande de Engenharia de Software e apaixonado por programação desde a primeira década desse milênio.
+Olá, me chamo <strong>Gabriel</strong>, sou estudande de Engenharia de Software e apaixonado por programação desde a primeira década desse milênio.<br/>
+
 </p>
 
 ## 🔧 Tecnologias & Ferramentas
@@ -33,7 +34,7 @@ Olá, me chamo <strong>Gabriel</strong>, estudande de Engenharia de Software e a
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 
-## 🔗 Meu github
+## 🔗
 <p align="left">
   <div>
     <a href="https://github.com/gbrlbsls">
