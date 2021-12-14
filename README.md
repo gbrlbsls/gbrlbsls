@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 <p align="left"> 
-Olá, me chamo <strong>Gabriel</strong>, sou estudande de Engenharia de Software e apaixonado por programação desde a primeira década desse milênio.<br/>
+Olá, me chamo <strong>Gabriel</strong>, sou estudante de Engenharia de Software e apaixonado por programação desde a primeira década desse milênio.<br/>
 
 </p>
 
