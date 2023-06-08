@@ -42,4 +42,4 @@ Olá, me chamo <strong>Gabriel</strong>, sou estudante de Engenharia de Software
 </p>
 
 Email:
-- gabrielbsales[AT]gmail[DOT]com
+- contato[AT]devgbrl.com
