@@ -35,8 +35,7 @@ Olá, me chamo <strong>Gabriel</strong>, sou estudante de Engenharia de Software
 <p align="left">
   <div>
     <a href="https://github.com/gbrlbsls">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlbsls&count_private=true&theme=github_dark&show_icons=true&custom_title=Meus Stats no Github"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlbsls&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens mais utilizadas"/>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrlbsls&count_private=true&theme=github_dark&show_icons=true&locale=en" alt="gbrlbsls" /></p>
     </a>
   </div>
 </p>
