@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 <p align="left"> 
-Olá, me chamo <strong>Gabriel</strong>, sou estudante de Engenharia de Software e apaixonado por programação desde a primeira década desse milênio.<br/>
+Olá, me chamo <strong>Gabriel</strong>, desenvolvedor backend, estudante de Engenharia de Software, entusiasta com Elixir e apaixonado por conhecimento em tecnologia.<br/>
 
 </p>
 
@@ -12,6 +12,8 @@ Olá, me chamo <strong>Gabriel</strong>, sou estudante de Engenharia de Software
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=elixir&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Asp-Net-Core-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
