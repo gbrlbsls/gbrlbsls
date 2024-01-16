@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 <p align="left"> 
-Olá, me chamo <strong>Gabriel</strong>, desenvolvedor backend, estudante de Engenharia de Software, entusiasta com Elixir e apaixonado por conhecimento em tecnologia.<br/>
+Olá, me chamo <strong>Gabriel</strong>, desenvolvedor backend, estudante de Engenharia de Software e apaixonado por conhecimento em tecnologia.<br/>
 
 </p>
 
