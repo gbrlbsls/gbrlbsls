@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 <p align="left"> 
-Olá, me chamo <strong>Gabriel</strong>, desenvolvedor backend, estudante de Engenharia de Software e apaixonado por conhecimento em tecnologia.<br/>
+Olá, me chamo <strong>Gabriel</strong>, sou desenvolvedor backend com mais de 5 anos de experiência e se especializando em Java.<br/>
 
 </p>
 
