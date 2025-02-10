@@ -13,8 +13,6 @@ Olá, me chamo <strong>Gabriel</strong>, sou desenvolvedor backend com mais de 5
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=elixir&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Asp-Net-Core-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 
